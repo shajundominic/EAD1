@@ -1,0 +1,7 @@
+C:\gary\OOSDev2 HDip\CAs\MusicPlayList\MusicPlayListTest\obj\Debug\MusicPlayListTest.csprojResolveAssemblyReference.cache
+C:\gary\OOSDev2 HDip\CAs\MusicPlayList\MusicPlayListTest\bin\Debug\MusicPlayListTest.dll
+C:\gary\OOSDev2 HDip\CAs\MusicPlayList\MusicPlayListTest\bin\Debug\MusicPlayListTest.pdb
+C:\gary\OOSDev2 HDip\CAs\MusicPlayList\MusicPlayListTest\bin\Debug\MusicPlayList.exe
+C:\gary\OOSDev2 HDip\CAs\MusicPlayList\MusicPlayListTest\bin\Debug\MusicPlayList.pdb
+C:\gary\OOSDev2 HDip\CAs\MusicPlayList\MusicPlayListTest\obj\Debug\MusicPlayListTest.dll
+C:\gary\OOSDev2 HDip\CAs\MusicPlayList\MusicPlayListTest\obj\Debug\MusicPlayListTest.pdb
